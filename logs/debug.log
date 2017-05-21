@@ -1,0 +1,2687 @@
+2016-12-26 15:53:44 Notice: Notice (8): Undefined variable: cakeDescription in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Pages/index.ctp, line 7]
+Request URL: /
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Pages/index.ctp, line 7
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+App\Controller\PagesController::display() - APP/Controller/PagesController.php, line 62
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-28 10:43:18 Notice: Notice (8): Undefined variable: athletes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 1]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 1
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-28 11:21:56 Notice: Notice (8): Undefined variable: athletesController in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Controller/LicenseesController.php, line 26]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+App\Controller\LicenseesController::index() - APP/Controller/LicenseesController.php, line 26
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-28 11:22:23 Notice: Notice (8): Undefined variable: athletesController in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Controller/LicenseesController.php, line 26]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+App\Controller\LicenseesController::index() - APP/Controller/LicenseesController.php, line 26
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-28 11:22:46 Notice: Notice (8): Undefined variable: athletesController in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Controller/LicenseesController.php, line 26]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+App\Controller\LicenseesController::index() - APP/Controller/LicenseesController.php, line 26
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-28 11:22:56 Notice: Notice (8): Undefined variable: trainersController in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Controller/LicenseesController.php, line 27]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+App\Controller\LicenseesController::index() - APP/Controller/LicenseesController.php, line 27
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-28 11:27:01 Notice: Notice (8): Undefined variable: athletesController in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Controller/LicenseesController.php, line 26]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+App\Controller\LicenseesController::index() - APP/Controller/LicenseesController.php, line 26
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-28 11:27:24 Notice: Notice (8): Undefined variable: athletesController in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Controller/LicenseesController.php, line 26]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+App\Controller\LicenseesController::index() - APP/Controller/LicenseesController.php, line 26
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-28 11:27:32 Notice: Notice (8): Undefined variable: athletesController in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Controller/LicenseesController.php, line 26]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+App\Controller\LicenseesController::index() - APP/Controller/LicenseesController.php, line 26
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-30 07:53:04 Notice: Notice (8): Undefined variable: athletes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 2]
+Request URL: /licensees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-30 07:53:35 Notice: Notice (8): Undefined variable: athletes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 2]
+Request URL: /licensees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-30 08:05:00 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 3]
+Request URL: /licensees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-30 08:05:00 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 3]
+Request URL: /licensees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 3
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-30 08:05:20 Notice: Notice (8): Undefined variable: athletes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 2]
+Request URL: /licensees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-30 08:10:23 Notice: Notice (8): Undefined variable: athletes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 2]
+Request URL: /licensees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-30 08:10:30 Notice: Notice (8): Undefined variable: athletes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 2]
+Request URL: /licensees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-30 08:12:14 Notice: Notice (8): Undefined variable: athletes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 2]
+Request URL: /licensees/index
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 08:58:03 Notice: Notice (8): Undefined variable: athletes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 2]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 08:58:35 Notice: Notice (8): Undefined variable: athletes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 2]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 2
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 09:32:32 Notice: Notice (8): Undefined variable: club in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 33]
+Request URL: /licensees
+Referer URL: http://localhost:8765/licensees?page=2
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 33
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 09:32:32 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 33]
+Request URL: /licensees
+Referer URL: http://localhost:8765/licensees?page=2
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 33
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 09:32:32 Notice: Notice (8): Undefined variable: club in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 36]
+Request URL: /licensees
+Referer URL: http://localhost:8765/licensees?page=2
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 36
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 09:32:32 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 36]
+Request URL: /licensees
+Referer URL: http://localhost:8765/licensees?page=2
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 36
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 09:54:51 Notice: Notice (8): Undefined property: Cake\ORM\ResultSet::$id in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 19]
+Request URL: /licensees
+Referer URL: http://localhost:8765/licensees?page=2
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 19
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 10:13:13 Notice: Notice (8): Undefined property: Cake\ORM\ResultSet::$id in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 19]
+Request URL: /licensees
+Referer URL: http://localhost:8765/licensees?page=2
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Licensees/index.ctp, line 19
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 10:42:56 Notice: Notice (8): Undefined variable: club in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/view.ctp, line 28]
+Request URL: /athletes/view/1
+Referer URL: http://localhost:8765/licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/view.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 10:42:56 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/view.ctp, line 28]
+Request URL: /athletes/view/1
+Referer URL: http://localhost:8765/licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/view.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 10:49:11 Notice: Notice (8): Undefined variable: ahlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/view.ctp, line 32]
+Request URL: /athletes/view/1
+Referer URL: http://localhost:8765/licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/view.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 10:49:11 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/view.ctp, line 32]
+Request URL: /athletes/view/1
+Referer URL: http://localhost:8765/licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/view.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 10:49:11 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/view.ctp, line 32]
+Request URL: /athletes/view/1
+Referer URL: http://localhost:8765/licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/view.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:00:07 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 28]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:00:07 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 28]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:00:07 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 28]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:00:07 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 32]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:00:07 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 32]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:00:07 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 32]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:00:07 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 32]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:01:35 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 28]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/athletes/view/1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:01:35 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 28]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/athletes/view/1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:01:35 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 28]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/athletes/view/1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 28
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:01:35 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 32]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/athletes/view/1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:01:35 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 32]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/athletes/view/1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:01:35 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 32]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/athletes/view/1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:01:35 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 32]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/athletes/view/1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2016-12-31 11:02:13 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/view.ctp, line 32]
+Request URL: /trainers/view/1
+Referer URL: http://localhost:8765/athletes/view/1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/view.ctp, line 32
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-01 08:33:42 Notice: Notice (8): Array to string conversion in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Licensees/index.ctp, line 6]
+Request URL: /licensees
+Referer URL: http://localhost:8765/licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - CORE/src/View/View.php, line 1016
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-01 09:44:59 Notice: Notice (8): Undefined index: pageCount in [/opt/lampp/htdocs/SIO2/ppe/lla_b/vendor/cakephp/cakephp/src/View/Helper/PaginatorHelper.php, line 731]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\View\Helper\PaginatorHelper::numbers() - CORE/src/View/Helper/PaginatorHelper.php, line 731
+include - APP/Template/Licensees/index.ctp, line 66
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-01 09:46:27 Notice: Notice (8): Undefined index: pageCount in [/opt/lampp/htdocs/SIO2/ppe/lla_b/vendor/cakephp/cakephp/src/View/Helper/PaginatorHelper.php, line 731]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\View\Helper\PaginatorHelper::numbers() - CORE/src/View/Helper/PaginatorHelper.php, line 731
+include - APP/Template/Licensees/index.ctp, line 66
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-01 09:47:27 Notice: Notice (8): Undefined index: pageCount in [/opt/lampp/htdocs/SIO2/ppe/lla_b/vendor/cakephp/cakephp/src/View/Helper/PaginatorHelper.php, line 731]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\View\Helper\PaginatorHelper::numbers() - CORE/src/View/Helper/PaginatorHelper.php, line 731
+include - APP/Template/Licensees/index.ctp, line 66
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-01 09:48:43 Notice: Notice (8): Undefined index: pageCount in [/opt/lampp/htdocs/SIO2/ppe/lla_b/vendor/cakephp/cakephp/src/View/Helper/PaginatorHelper.php, line 731]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\View\Helper\PaginatorHelper::numbers() - CORE/src/View/Helper/PaginatorHelper.php, line 731
+include - APP/Template/Licensees/index.ctp, line 66
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-01 09:50:26 Notice: Notice (8): Undefined index: pageCount in [/opt/lampp/htdocs/SIO2/ppe/lla_b/vendor/cakephp/cakephp/src/View/Helper/PaginatorHelper.php, line 731]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\View\Helper\PaginatorHelper::numbers() - CORE/src/View/Helper/PaginatorHelper.php, line 731
+include - APP/Template/Licensees/index.ctp, line 66
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-01 09:51:07 Notice: Notice (8): Undefined index: pageCount in [/opt/lampp/htdocs/SIO2/ppe/lla_b/vendor/cakephp/cakephp/src/View/Helper/PaginatorHelper.php, line 731]
+Request URL: /licensees
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\View\Helper\PaginatorHelper::numbers() - CORE/src/View/Helper/PaginatorHelper.php, line 731
+include - APP/Template/Licensees/index.ctp, line 66
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-02 09:08:09 Notice: Notice (8): Undefined variable: club in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/add.ctp, line 7]
+Request URL: /athletes/add
+Referer URL: http://localhost:8765/athletes
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/add.ctp, line 7
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-02 09:11:10 Notice: Notice (8): Undefined property: Cake\ORM\Query::$last_name in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/add.ctp, line 9]
+Request URL: /athletes/add
+Referer URL: http://localhost:8765/athletes
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/add.ctp, line 9
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-02 09:12:05 Notice: Notice (8): Undefined property: Cake\ORM\Query::$last_name in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/add.ctp, line 9]
+Request URL: /athletes/add
+Referer URL: http://localhost:8765/athletes
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/add.ctp, line 9
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-02 09:16:09 Notice: Notice (8): Undefined property: Cake\ORM\Query::$last_name in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/add.ctp, line 15]
+Request URL: /athletes/add
+Referer URL: http://localhost:8765/athletes
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/add.ctp, line 15
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-02 09:18:12 Notice: Notice (8): Undefined property: Cake\ORM\Query::$last_name in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/add.ctp, line 15]
+Request URL: /athletes/add
+Referer URL: http://localhost:8765/athletes
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/add.ctp, line 15
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-02 09:33:42 Notice: Notice (8): Undefined variable: clubs in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/add.ctp, line 13]
+Request URL: /athletes/add
+Referer URL: http://localhost:8765/athletes
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/add.ctp, line 13
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-02 09:33:42 Notice: Notice (8): Undefined variable: categories in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/add.ctp, line 14]
+Request URL: /athletes/add
+Referer URL: http://localhost:8765/athletes
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/add.ctp, line 14
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-02 09:33:42 Notice: Notice (8): Undefined variable: trainers in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/add.ctp, line 15]
+Request URL: /athletes/add
+Referer URL: http://localhost:8765/athletes
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/add.ctp, line 15
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-02 09:57:52 Notice: Notice (8): Undefined property: Cake\ORM\Query::$last_name in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/add.ctp, line 16]
+Request URL: /athletes/add
+Referer URL: http://localhost:8765/athletes
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/add.ctp, line 16
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 08:52:11 Notice: Notice (8): Undefined variable: sexes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/edit.ctp, line 13]
+Request URL: /athletes/edit/1
+Referer URL: http://localhost:8765/athletes
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/edit.ctp, line 13
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 08:52:11 Notice: Notice (8): Undefined variable: clubs in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/edit.ctp, line 14]
+Request URL: /athletes/edit/1
+Referer URL: http://localhost:8765/athletes
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/edit.ctp, line 14
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 08:52:11 Notice: Notice (8): Undefined variable: categories in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/edit.ctp, line 15]
+Request URL: /athletes/edit/1
+Referer URL: http://localhost:8765/athletes
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/edit.ctp, line 15
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 08:52:11 Notice: Notice (8): Undefined variable: trainers in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Athletes/edit.ctp, line 16]
+Request URL: /athletes/edit/1
+Referer URL: http://localhost:8765/athletes
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Athletes/edit.ctp, line 16
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 09:18:58 Notice: Notice (8): Undefined index: pageCount in [/opt/lampp/htdocs/SIO2/ppe/lla_b/vendor/cakephp/cakephp/src/View/Helper/PaginatorHelper.php, line 731]
+Request URL: /trainers
+Referer URL: http://localhost:8765/athletes?page=3
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+Cake\View\Helper\PaginatorHelper::numbers() - CORE/src/View/Helper/PaginatorHelper.php, line 731
+include - APP/Template/Trainers/index.ctp, line 45
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 09:26:29 Notice: Notice (8): Undefined variable: sexes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/add.ctp, line 13]
+Request URL: /trainers/add
+Referer URL: http://localhost:8765/trainers
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/add.ctp, line 13
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 09:26:29 Notice: Notice (8): Undefined variable: clubs in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/add.ctp, line 14]
+Request URL: /trainers/add
+Referer URL: http://localhost:8765/trainers
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/add.ctp, line 14
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 09:26:29 Notice: Notice (8): Undefined variable: old_athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/add.ctp, line 15]
+Request URL: /trainers/add
+Referer URL: http://localhost:8765/trainers
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/add.ctp, line 15
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 09:26:29 Notice: Notice (8): Undefined variable: specialties in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/add.ctp, line 17]
+Request URL: /trainers/add
+Referer URL: http://localhost:8765/trainers
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/add.ctp, line 17
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 09:26:29 Notice: Notice (8): Undefined variable: trainers in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/add.ctp, line 19]
+Request URL: /trainers/add
+Referer URL: http://localhost:8765/trainers
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/add.ctp, line 19
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 09:28:53 Notice: Notice (8): Undefined variable: old_athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/add.ctp, line 15]
+Request URL: /trainers/add
+Referer URL: http://localhost:8765/trainers
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/add.ctp, line 15
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 09:30:24 Notice: Notice (8): Undefined variable: old_athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Trainers/add.ctp, line 15]
+Request URL: /trainers/add
+Referer URL: http://localhost:8765/trainers
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Trainers/add.ctp, line 15
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 09:32:16 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Controller/TrainersController.php, line 30]
+Request URL: /trainers/add
+Referer URL: http://localhost:8765/trainers/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+App\Controller\TrainersController::add() - APP/Controller/TrainersController.php, line 30
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-03 09:39:06 Notice: Notice (8): Undefined variable: trainer in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Controller/TrainersController.php, line 68]
+Request URL: /trainers/delete/7
+Referer URL: http://localhost:8765/trainers
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+App\Controller\TrainersController::delete() - APP/Controller/TrainersController.php, line 68
+Cake\Controller\Controller::invokeAction() - CORE/src/Controller/Controller.php, line 435
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 122
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 08:52:54 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 08:52:54 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 08:52:54 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 08:52:54 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 08:52:54 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 08:52:54 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 08:52:54 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 08:52:54 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 08:52:54 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:26 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:26 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:26 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:26 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:26 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:26 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:26 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:26 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:26 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:38 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:38 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:38 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:38 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:38 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:38 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:38 Notice: Notice (8): Undefined variable: athlete in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:38 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:08:38 Notice: Notice (8): Trying to get property of non-object in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 39]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 39
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:13:04 Notice: Notice (8): Undefined variable: athletes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 48]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 48
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:14:51 Notice: Notice (8): Undefined variable: athletes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 49]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 49
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
+2017-01-05 09:16:13 Notice: Notice (8): Undefined variable: athletes in [/opt/lampp/htdocs/SIO2/ppe/lla_b/src/Template/Clubs/view.ctp, line 49]
+Request URL: /clubs/view/054016
+Referer URL: http://localhost:8765/clubs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 146
+include - APP/Template/Clubs/view.ctp, line 49
+Cake\View\View::_evaluate() - CORE/src/View/View.php, line 1016
+Cake\View\View::_render() - CORE/src/View/View.php, line 975
+Cake\View\View::render() - CORE/src/View/View.php, line 599
+Cake\Controller\Controller::render() - CORE/src/Controller/Controller.php, line 617
+Cake\Http\ActionDispatcher::_invoke() - CORE/src/Http/ActionDispatcher.php, line 128
+Cake\Http\ActionDispatcher::dispatch() - CORE/src/Http/ActionDispatcher.php, line 96
+Cake\Http\BaseApplication::__invoke() - CORE/src/Http/BaseApplication.php, line 83
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\RoutingMiddleware::__invoke() - CORE/src/Routing/Middleware/RoutingMiddleware.php, line 62
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Routing\Middleware\AssetMiddleware::__invoke() - CORE/src/Routing/Middleware/AssetMiddleware.php, line 88
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Error\Middleware\ErrorHandlerMiddleware::__invoke() - CORE/src/Error/Middleware/ErrorHandlerMiddleware.php, line 81
+Cake\Http\Runner::__invoke() - CORE/src/Http/Runner.php, line 65
+Cake\Http\Runner::run() - CORE/src/Http/Runner.php, line 51
+Cake\Http\Server::run() - CORE/src/Http/Server.php, line 92
+[main] - ROOT/webroot/index.php, line 37
+
+
+
